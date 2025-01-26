@@ -38,3 +38,9 @@ You can easily modify the prompt templates in `LangchainHelper.py` to generate r
 ---
 
 This should give anyone who clones the repository enough information to set up and use the project. You can customize it further based on any additional features or instructions. Let me know if you need more changes or have any questions! 😊
+### Snapshots
+![image](https://github.com/user-attachments/assets/54913ad8-7ef4-4c7f-9a56-0fca10805431)
+![image](https://github.com/user-attachments/assets/2dd02d7a-2e13-4ac5-b741-2cb7c8671bd6)
+![image](https://github.com/user-attachments/assets/933a5d33-f0e3-4211-b91d-d61164cda2e9)
+
+
