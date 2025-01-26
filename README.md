@@ -7,6 +7,7 @@ A Python project that generates creative restaurant names and menu items based o
 - **Restaurant Name Generator**: Given a cuisine, the model generates a creative name for a restaurant.
 - **Menu Items Generator**: For a given restaurant name, the model generates a list of menu items.
 - **Easy Setup**: The project uses LangChain and OpenAI to make it easy to generate restaurant-related content.
+- **Frontend**: The project uses streamlit library of python for the frontend development.
 
 ## Usage
 
